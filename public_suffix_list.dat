@@ -6719,7 +6719,7 @@ org.zw
 
 // newGTLDs
 
-// List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-08-26T15:11:08Z
+// List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2024-10-24T15:07:26Z
 // This list is auto-generated, don't edit it manually.
 // aaa : American Automobile Association, Inc.
 // https://www.iana.org/domains/root/db/aaa.html
@@ -6905,7 +6905,7 @@ anquan
 // https://www.iana.org/domains/root/db/anz.html
 anz
 
-// aol : Oath Inc.
+// aol : Yahoo Inc.
 // https://www.iana.org/domains/root/db/aol.html
 aol
 
@@ -6997,10 +6997,6 @@ auto
 // https://www.iana.org/domains/root/db/autos.html
 autos
 
-// avianca : Avianca Inc.
-// https://www.iana.org/domains/root/db/avianca.html
-avianca
-
 // aws : AWS Registry LLC
 // https://www.iana.org/domains/root/db/aws.html
 aws
@@ -7024,10 +7020,6 @@ baidu
 // banamex : Citigroup Inc.
 // https://www.iana.org/domains/root/db/banamex.html
 banamex
-
-// bananarepublic : The Gap, Inc.
-// https://www.iana.org/domains/root/db/bananarepublic.html
-bananarepublic
 
 // band : Dog Beach, LLC
 // https://www.iana.org/domains/root/db/band.html
@@ -7409,15 +7401,11 @@ cbn
 // https://www.iana.org/domains/root/db/cbre.html
 cbre
 
-// cbs : CBS Domains Inc.
-// https://www.iana.org/domains/root/db/cbs.html
-cbs
-
 // center : Binky Moon, LLC
 // https://www.iana.org/domains/root/db/center.html
 center
 
-// ceo : CEOTLD Pty Ltd
+// ceo : XYZ.COM LLC
 // https://www.iana.org/domains/root/db/ceo.html
 ceo
 
@@ -7501,10 +7489,6 @@ citic
 // https://www.iana.org/domains/root/db/city.html
 city
 
-// cityeats : Lifestyle Domain Holdings, Inc.
-// https://www.iana.org/domains/root/db/cityeats.html
-cityeats
-
 // claims : Binky Moon, LLC
 // https://www.iana.org/domains/root/db/claims.html
 claims
@@ -7560,10 +7544,6 @@ college
 // cologne : dotKoeln GmbH
 // https://www.iana.org/domains/root/db/cologne.html
 cologne
-
-// comcast : Comcast IP Holdings I, LLC
-// https://www.iana.org/domains/root/db/comcast.html
-comcast
 
 // commbank : COMMONWEALTH BANK OF AUSTRALIA
 // https://www.iana.org/domains/root/db/commbank.html
@@ -7685,10 +7665,6 @@ cymru
 // https://www.iana.org/domains/root/db/cyou.html
 cyou
 
-// dabur : Dabur India Limited
-// https://www.iana.org/domains/root/db/dabur.html
-dabur
-
 // dad : Charleston Road Registry Inc.
 // https://www.iana.org/domains/root/db/dad.html
 dad
@@ -7769,10 +7745,6 @@ dental
 // https://www.iana.org/domains/root/db/dentist.html
 dentist
 
-// desi : Desi Networks LLC
-// https://www.iana.org/domains/root/db/desi.html
-desi
-
 // design : Registry Services, LLC
 // https://www.iana.org/domains/root/db/design.html
 design
@@ -7817,7 +7789,7 @@ discover
 // https://www.iana.org/domains/root/db/dish.html
 dish
 
-// diy : Lifestyle Domain Holdings, Inc.
+// diy : Internet Naming Company LLC
 // https://www.iana.org/domains/root/db/diy.html
 diy
 
@@ -7948,10 +7920,6 @@ esq
 // estate : Binky Moon, LLC
 // https://www.iana.org/domains/root/db/estate.html
 estate
-
-// etisalat : Emirates Telecommunications Corporation (trading as Etisalat)
-// https://www.iana.org/domains/root/db/etisalat.html
-etisalat
 
 // eurovision : European Broadcasting Union (EBU)
 // https://www.iana.org/domains/root/db/eurovision.html
@@ -8125,7 +8093,7 @@ fly
 // https://www.iana.org/domains/root/db/foo.html
 foo
 
-// food : Lifestyle Domain Holdings, Inc.
+// food : Internet Naming Company LLC
 // https://www.iana.org/domains/root/db/food.html
 food
 
@@ -8145,7 +8113,7 @@ forex
 // https://www.iana.org/domains/root/db/forsale.html
 forsale
 
-// forum : Fegistry, LLC
+// forum : Waterford Limited
 // https://www.iana.org/domains/root/db/forum.html
 forum
 
@@ -8173,10 +8141,6 @@ frl
 // https://www.iana.org/domains/root/db/frogans.html
 frogans
 
-// frontdoor : Lifestyle Domain Holdings, Inc.
-// https://www.iana.org/domains/root/db/frontdoor.html
-frontdoor
-
 // frontier : Frontier Communications Corporation
 // https://www.iana.org/domains/root/db/frontier.html
 frontier
@@ -8189,7 +8153,7 @@ ftr
 // https://www.iana.org/domains/root/db/fujitsu.html
 fujitsu
 
-// fun : Radix FZC DMCC
+// fun : Radix Technologies Inc.
 // https://www.iana.org/domains/root/db/fun.html
 fun
 
@@ -8337,7 +8301,7 @@ goldpoint
 // https://www.iana.org/domains/root/db/golf.html
 golf
 
-// goo : NTT Resonant Inc.
+// goo : NTT DOCOMO, INC.
 // https://www.iana.org/domains/root/db/goo.html
 goo
 
@@ -8389,10 +8353,6 @@ grocery
 // https://www.iana.org/domains/root/db/group.html
 group
 
-// guardian : The Guardian Life Insurance Company of America
-// https://www.iana.org/domains/root/db/guardian.html
-guardian
-
 // gucci : Guccio Gucci S.p.a.
 // https://www.iana.org/domains/root/db/gucci.html
 gucci
@@ -8433,11 +8393,11 @@ haus
 // https://www.iana.org/domains/root/db/hbo.html
 hbo
 
-// hdfc : HOUSING DEVELOPMENT FINANCE CORPORATION LIMITED
+// hdfc : HDFC BANK LIMITED
 // https://www.iana.org/domains/root/db/hdfc.html
 hdfc
 
-// hdfcbank : HDFC Bank Limited
+// hdfcbank : HDFC BANK LIMITED
 // https://www.iana.org/domains/root/db/hdfcbank.html
 hdfcbank
 
@@ -8525,7 +8485,7 @@ horse
 // https://www.iana.org/domains/root/db/hospital.html
 hospital
 
-// host : Radix FZC DMCC
+// host : Radix Technologies Inc.
 // https://www.iana.org/domains/root/db/host.html
 host
 
@@ -8745,7 +8705,7 @@ jpmorgan
 // https://www.iana.org/domains/root/db/jprs.html
 jprs
 
-// juegos : Internet Naming Company LLC
+// juegos : Dog Beach, LLC
 // https://www.iana.org/domains/root/db/juegos.html
 juegos
 
@@ -8788,10 +8748,6 @@ kids
 // kim : Identity Digital Limited
 // https://www.iana.org/domains/root/db/kim.html
 kim
-
-// kinder : Ferrero Trading Lux S.A.
-// https://www.iana.org/domains/root/db/kinder.html
-kinder
 
 // kindle : Amazon Registry Services, Inc.
 // https://www.iana.org/domains/root/db/kindle.html
@@ -8937,7 +8893,7 @@ life
 // https://www.iana.org/domains/root/db/lifeinsurance.html
 lifeinsurance
 
-// lifestyle : Lifestyle Domain Holdings, Inc.
+// lifestyle : Internet Naming Company LLC
 // https://www.iana.org/domains/root/db/lifestyle.html
 lifestyle
 
@@ -8977,7 +8933,7 @@ lipsy
 // https://www.iana.org/domains/root/db/live.html
 live
 
-// living : Lifestyle Domain Holdings, Inc.
+// living : Internet Naming Company LLC
 // https://www.iana.org/domains/root/db/living.html
 living
 
@@ -9021,7 +8977,7 @@ lotte
 // https://www.iana.org/domains/root/db/lotto.html
 lotto
 
-// love : Merchant Law Group LLP
+// love : Waterford Limited
 // https://www.iana.org/domains/root/db/love.html
 love
 
@@ -9069,7 +9025,7 @@ maison
 // https://www.iana.org/domains/root/db/makeup.html
 makeup
 
-// man : MAN SE
+// man : MAN Truck & Bus SE
 // https://www.iana.org/domains/root/db/man.html
 man
 
@@ -9148,6 +9104,10 @@ men
 // menu : Dot Menu Registry, LLC
 // https://www.iana.org/domains/root/db/menu.html
 menu
+
+// merck : Merck Registry Holdings, Inc.
+// https://www.iana.org/domains/root/db/merck.html
+merck
 
 // merckmsd : MSD Registry Holdings, Inc.
 // https://www.iana.org/domains/root/db/merckmsd.html
@@ -9273,10 +9233,6 @@ nab
 // https://www.iana.org/domains/root/db/nagoya.html
 nagoya
 
-// natura : NATURA COSMÉTICOS S.A.
-// https://www.iana.org/domains/root/db/natura.html
-natura
-
 // navy : Dog Beach, LLC
 // https://www.iana.org/domains/root/db/navy.html
 navy
@@ -9365,7 +9321,7 @@ nissay
 // https://www.iana.org/domains/root/db/nokia.html
 nokia
 
-// norton : NortonLifeLock Inc.
+// norton : Gen Digital Inc.
 // https://www.iana.org/domains/root/db/norton.html
 norton
 
@@ -9421,10 +9377,6 @@ olayan
 // https://www.iana.org/domains/root/db/olayangroup.html
 olayangroup
 
-// oldnavy : The Gap, Inc.
-// https://www.iana.org/domains/root/db/oldnavy.html
-oldnavy
-
 // ollo : Dish DBS Corporation
 // https://www.iana.org/domains/root/db/ollo.html
 ollo
@@ -9445,7 +9397,7 @@ ong
 // https://www.iana.org/domains/root/db/onl.html
 onl
 
-// online : Radix FZC DMCC
+// online : Radix Technologies Inc.
 // https://www.iana.org/domains/root/db/online.html
 online
 
@@ -9649,7 +9601,7 @@ pramerica
 // https://www.iana.org/domains/root/db/praxi.html
 praxi
 
-// press : Radix FZC DMCC
+// press : Radix Technologies Inc.
 // https://www.iana.org/domains/root/db/press.html
 press
 
@@ -9681,7 +9633,7 @@ promo
 // https://www.iana.org/domains/root/db/properties.html
 properties
 
-// property : Internet Naming Company LLC
+// property : Digital Property Infrastructure Limited
 // https://www.iana.org/domains/root/db/property.html
 property
 
@@ -9737,7 +9689,7 @@ realestate
 // https://www.iana.org/domains/root/db/realtor.html
 realtor
 
-// realty : Internet Naming Company LLC
+// realty : Waterford Limited
 // https://www.iana.org/domains/root/db/realty.html
 realty
 
@@ -9844,10 +9796,6 @@ rio
 // rip : Dog Beach, LLC
 // https://www.iana.org/domains/root/db/rip.html
 rip
-
-// rocher : Ferrero Trading Lux S.A.
-// https://www.iana.org/domains/root/db/rocher.html
-rocher
 
 // rocks : Dog Beach, LLC
 // https://www.iana.org/domains/root/db/rocks.html
@@ -9961,10 +9909,6 @@ sbi
 // https://www.iana.org/domains/root/db/sbs.html
 sbs
 
-// sca : SVENSKA CELLULOSA AKTIEBOLAGET SCA (publ)
-// https://www.iana.org/domains/root/db/sca.html
-sca
-
 // scb : The Siam Commercial Bank Public Company Limited ("SCB")
 // https://www.iana.org/domains/root/db/scb.html
 scb
@@ -10061,10 +10005,6 @@ shangrila
 // https://www.iana.org/domains/root/db/sharp.html
 sharp
 
-// shaw : Shaw Cablesystems G.P.
-// https://www.iana.org/domains/root/db/shaw.html
-shaw
-
 // shell : Shell Information Technology International Inc
 // https://www.iana.org/domains/root/db/shell.html
 shell
@@ -10097,10 +10037,6 @@ shouji
 // https://www.iana.org/domains/root/db/show.html
 show
 
-// showtime : CBS Domains Inc.
-// https://www.iana.org/domains/root/db/showtime.html
-showtime
-
 // silk : Amazon Registry Services, Inc.
 // https://www.iana.org/domains/root/db/silk.html
 silk
@@ -10113,7 +10049,7 @@ sina
 // https://www.iana.org/domains/root/db/singles.html
 singles
 
-// site : Radix FZC DMCC
+// site : Radix Technologies Inc.
 // https://www.iana.org/domains/root/db/site.html
 site
 
@@ -10193,7 +10129,7 @@ soy
 // https://www.iana.org/domains/root/db/spa.html
 spa
 
-// space : Radix FZC DMCC
+// space : Radix Technologies Inc.
 // https://www.iana.org/domains/root/db/space.html
 space
 
@@ -10245,7 +10181,7 @@ stockholm
 // https://www.iana.org/domains/root/db/storage.html
 storage
 
-// store : Radix FZC DMCC
+// store : Radix Technologies Inc.
 // https://www.iana.org/domains/root/db/store.html
 store
 
@@ -10361,7 +10297,7 @@ tdk
 // https://www.iana.org/domains/root/db/team.html
 team
 
-// tech : Radix FZC DMCC
+// tech : Radix Technologies Inc.
 // https://www.iana.org/domains/root/db/tech.html
 tech
 
@@ -10545,7 +10481,7 @@ unicom
 // https://www.iana.org/domains/root/db/university.html
 university
 
-// uno : Radix FZC DMCC
+// uno : Radix Technologies Inc.
 // https://www.iana.org/domains/root/db/uno.html
 uno
 
@@ -10561,7 +10497,7 @@ ups
 // https://www.iana.org/domains/root/db/vacations.html
 vacations
 
-// vana : Lifestyle Domain Holdings, Inc.
+// vana : D3 Registry LLC
 // https://www.iana.org/domains/root/db/vana.html
 vana
 
@@ -10645,10 +10581,6 @@ vlaanderen
 // https://www.iana.org/domains/root/db/vodka.html
 vodka
 
-// volkswagen : Volkswagen Group of America Inc.
-// https://www.iana.org/domains/root/db/volkswagen.html
-volkswagen
-
 // volvo : Volvo Holding Sverige Aktiebolag
 // https://www.iana.org/domains/root/db/volvo.html
 volvo
@@ -10713,7 +10645,7 @@ webcam
 // https://www.iana.org/domains/root/db/weber.html
 weber
 
-// website : Radix FZC DMCC
+// website : Radix Technologies Inc.
 // https://www.iana.org/domains/root/db/website.html
 website
 
@@ -10804,10 +10736,6 @@ xbox
 // xerox : Xerox DNHC LLC
 // https://www.iana.org/domains/root/db/xerox.html
 xerox
-
-// xfinity : Comcast IP Holdings I, LLC
-// https://www.iana.org/domains/root/db/xfinity.html
-xfinity
 
 // xihuan : Beijing Qihu Keji Co., Ltd.
 // https://www.iana.org/domains/root/db/xihuan.html
@@ -11049,10 +10977,6 @@ xin
 // https://www.iana.org/domains/root/db/xn--mgba7c0bbn0a.html
 العليان
 
-// xn--mgbaakc7dvf : Emirates Telecommunications Corporation (trading as Etisalat)
-// https://www.iana.org/domains/root/db/xn--mgbaakc7dvf.html
-اتصالات
-
 // xn--mgbab2bd : CORE Association
 // https://www.iana.org/domains/root/db/xn--mgbab2bd.html
 بازار
@@ -11189,7 +11113,7 @@ xyz
 // https://www.iana.org/domains/root/db/yachts.html
 yachts
 
-// yahoo : Oath Inc.
+// yahoo : Yahoo Inc.
 // https://www.iana.org/domains/root/db/yahoo.html
 yahoo
 
